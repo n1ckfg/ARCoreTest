@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4461716624848968}
   - component: {fileID: 114451930413443482}
   m_Layer: 0
-  m_Name: Evironmental Light
+  m_Name: Environmental Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
